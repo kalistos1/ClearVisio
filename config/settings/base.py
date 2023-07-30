@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     # htmx
     "django_htmx",
     'core',
+    'dashboard',
 ]
 
 MIDDLEWARE = [
